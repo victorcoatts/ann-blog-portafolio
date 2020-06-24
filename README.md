@@ -1,2 +1,2 @@
 # ann-blog-portafolio
-Trabajo de consolidación
+Trabajo de consolidación de aprendizaje
